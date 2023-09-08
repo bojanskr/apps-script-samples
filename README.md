@@ -1,4 +1,4 @@
-# Google Apps Script Samples [![Build Status](https://travis-ci.org/googleworkspace/apps-script-samples.svg?branch=master)](https://travis-ci.org/googleworkspace/apps-script-samples)
+# Google Apps Script Samples
 
 Various sample code and projects for the Google Apps Script platform, a JavaScript platform in the cloud.
 
@@ -28,7 +28,7 @@ align="left"
 width="96px"/>
 ### Calendar
 - [List upcoming events](calendar/quickstart)
-- [Create a vacation calendar](calendar/vacationCalendar)
+- [Create a vacation calendar](solutions/automations/vacation-calendar/Code.js)
 
 <img
 src="https://www.gstatic.com/images/branding/product/2x/classroom_96dp.png"
